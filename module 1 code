@@ -1,0 +1,25 @@
+//SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+contract SmartContractProject{
+    uint public value;
+
+    function Require(uint _value) external {
+        require(_value > 0, "provide a value which  is greater than 0");
+        value = _value;
+    }
+   
+    function Assert(uint _newValue) external {
+        uint diff = _newValue -value;
+        assert(diff>0 && diff ==value);
+        value = _newValue;
+    }
+   
+    function Revert()external {
+        uint price = value;
+        value = 0;
+        if (price==0){
+            revert("price is Zero");
+        }
+    }
+}
