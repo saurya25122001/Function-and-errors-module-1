@@ -53,4 +53,6 @@ The contract is designed for educational purposes and may not be suitable for pr
 - Email: 22bcs80056@cuchd.in
 
 ## License
+## License
+This project is licensed under the [MIT License](https://github.com/saurya25122001/ETH-PROOF-Beginner-assesment/blob/b5e9ceb9d7a850ad7795fdd92b3881d109d5144e/LICENSE)
 
