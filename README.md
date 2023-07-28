@@ -47,7 +47,7 @@ The contract is designed for educational purposes and may not be suitable for pr
 
 ## Author
 
-**Prashant Kumar**
+**Saurya Pratap**
 
 - GitHub:  https://github.com/saurya25122001
 - Email: 22bcs80056@cuchd.in
